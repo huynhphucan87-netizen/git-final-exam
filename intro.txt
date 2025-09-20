@@ -10,3 +10,12 @@ Kỹ năng:
 1. choi bong tu duy
 2. tang bong tren 200
 3. bat buoc 1 tot
+
+them :
+Kế hoạch học tập:
+1. Tiếp tục học về các ngôn ngữ lập trình khác như Java và C++.
+2. Thực hành các bài tập lập trình để rèn luyện kỹ năng giải quyết vấn đề.
+3. Tham gia các khóa học online để học về phát triển ứng dụng di động.
+4. Xây dựng các dự án thực tế để nâng cao khả năng lập trình và làm việc nhóm.
+5. Tìm hiểu về các công nghệ mới như Machine Learning và AI để áp dụng vào các dự án sau này.
+
