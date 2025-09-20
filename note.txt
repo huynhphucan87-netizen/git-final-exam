@@ -1,9 +1,3 @@
 - Git là công cụ quản lý mã nguồn rất mạnh mẽ và linh hoạt.
 - Git giúp tôi dễ dàng quản lý và theo dõi các thay đổi trong dự án.
 - GitHub là một nền tảng tuyệt vời để hợp tác và chia sẻ mã nguồn với người khác.
-- Git là công cụ quản lý mã nguồn rất mạnh mẽ và linh hoạt.
-- Git giúp tôi dễ dàng quản lý và theo dõi các thay đổi trong dự án.
-- GitHub là một nền tảng tuyệt vời để hợp tác và chia sẻ mã nguồn với người khác.
-- Git hỗ trợ làm việc với nhiều nhánh giúp dễ dàng phát triển tính năng mới.
-- Git giúp tôi giữ lịch sử thay đổi mã nguồn rõ ràng và dễ dàng khôi phục.
-
