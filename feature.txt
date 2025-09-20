@@ -1,0 +1,3 @@
+Tính năng mới:
+
+Tính năng này cho phép người dùng tạo và quản lý các công việc hàng ngày. Người dùng có thể thêm, sửa, xóa công việc trong danh sách. Mỗi công việc có thể có các thuộc tính như tiêu đề, mô tả, ngày hết hạn và trạng thái. Tính năng này giúp người dùng theo dõi công việc của mình một cách hiệu quả và tiết kiệm thời gian.
